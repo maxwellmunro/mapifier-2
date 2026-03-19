@@ -1,6 +1,6 @@
 # Mapifier 2
 
-Mind map making software, mosty a copy of [Mapifier](https://github.com/maxwellmunro/mapifier), with bug fixes and extra features
+Mind map making software, mostly a copy of [Mapifier](https://github.com/maxwellmunro/mapifier), with bug fixes and extra features
 
 ## Dependencies
 
